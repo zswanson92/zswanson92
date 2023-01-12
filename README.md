@@ -3,6 +3,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am 6'5!
 
+Here are some links to projects I've worked on thus far:
+https://snack-overflow.onrender.com/ - SnackOverflow, a StackOverflow clone that is oriented on food questions and food takes. Created with a React/Javascript front-end and a Flask/SQLAlchemy back-end
+
+https://zelp-hdmq.onrender.com/ - Zelp!, a Yelp! clone that is oriented primarily on food based businesses and has full create, read, update, delete functionality for Businesses and Reviews. Created with a React/Javascript front-end and a Flask/SQLAlchemy back-end with future implementation of google maps API, searchbar, review reactions and menus coming soon.
+
 <!--
 **zswanson92/zswanson92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
