@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=zswanson92.visitor-badge)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zswanson92)](https://github.com/zswanson92/github-readme-stats)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
