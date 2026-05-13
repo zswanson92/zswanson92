@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 📫 How to reach me: 📞 503-866-3360  📧 zackta92@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am 6'5!
 
